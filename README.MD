@@ -4,4 +4,4 @@ Aqui você encontrará um projeto de teclado musical virtual com o foco no proce
 
 ### Créditos
 
-Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+Este projeto foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
